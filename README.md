@@ -1,14 +1,7 @@
-# MyCourses
-My Learning or Teaching Courses. Course Lists are:
-- **RSIP - Remote Sensing Image Process**
-- **OOPCPP - Orient Objective Programming with C++**
-- **RSISA - Remote Sensing Instrument and Software Application**
----
+# OSGEO Note
+This is notes about OSGEO using and development.
+GDAL/OGR, PROJ, QGIS etc.
 
-[TOC]
+## [GDAL/OGR]()
 
-## OOPCPP
-
-## RSIP
-
-## RSISA
+## [QGIS]()
