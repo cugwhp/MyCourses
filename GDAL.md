@@ -1,1 +1,0 @@
-# GDAL/OGR Note
